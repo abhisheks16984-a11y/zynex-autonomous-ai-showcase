@@ -15,6 +15,8 @@ node_modules/
 dist/
 build/
 coverage/
+__pycache__/
+logs/
 
 # IDE, OS, and logs
 .DS_Store
@@ -22,6 +24,8 @@ Thumbs.db
 .idea/
 .vscode/
 *.log
+*.local
+config.local.*
 
 # Screenshots and exports must be reviewed before adding
 assets/screenshots/*

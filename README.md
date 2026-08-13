@@ -1,10 +1,21 @@
 # ZYNEX Autonomous AI
 
-### Intelligence That Acts.
+## Intelligence That Acts.
 
-ZYNEX is an AI platform designed to help people understand, analyze, reason, create, solve, and automate work across multiple domains. This repository is a **public product showcase and documentation space**. It intentionally contains no proprietary production source code, customer data, deployment configuration, payment credentials, or private infrastructure details.
+![ZYNEX Autonomous AI — Intelligence That Acts.](assets/branding/zynex-github-social-preview.png)
 
-> **Website:** [zynexai.co](https://zynexai.co/)
+ZYNEX is an AI platform built to **reason, analyze, create, and act** across multiple domains. This repository is a public-facing product showcase for the ZYNEX vision, architecture, current product surfaces, and planned direction. It intentionally excludes proprietary production source code, customer data, deployment configuration, payment credentials, and private infrastructure details.
+
+> **Explore ZYNEX:** [https://zynexai.co/](https://zynexai.co/)
+
+## At a glance
+
+| Focus | Public showcase position |
+|---|---|
+| Product | AI workspace for reasoning, analysis, productivity, and technical assistance |
+| Availability | Web application available; Android application planned |
+| Source | Production source remains proprietary and is not distributed here |
+| Repository purpose | Product documentation, conceptual architecture, roadmap, and public-safe guidance |
 
 ## Product status
 
@@ -19,6 +30,10 @@ ZYNEX is an AI platform designed to help people understand, analyze, reason, cre
 ZYNEX currently presents a web workspace for AI chat, programming assistance, code explanation and debugging, document and file analysis, website analysis, research support, mathematics and science assistance, educational support, content drafting, resume assistance, multilingual interaction, user profiles, conversation history, and subscription management.
 
 The platform also provides secure authentication, account-aware experiences, a technical intelligence documentation surface, and productivity-oriented tools. Availability may vary by plan, region, and release stage.
+
+## Visual preview
+
+The repository includes a branded social-preview visual. Public-safe product screenshots are intentionally not included until they have been reviewed to exclude user data, private dashboards, credentials, payment information, internal URLs, and infrastructure details.
 
 ## Roadmap and research direction
 
@@ -59,7 +74,7 @@ No payment credentials, merchant identifiers, webhook secrets, or private implem
 
 ZYNEX currently uses a TypeScript web stack centered on React, Vite, Express, tRPC, Drizzle ORM, a SQL database layer, and OAuth-based authentication. The platform uses AI/LLM infrastructure, file storage, and production monitoring appropriate to its web application. This showcase intentionally documents only high-level technologies; it does not publish private service addresses, environment values, or infrastructure configuration.
 
-## Explore
+## Explore the showcase
 
 | Resource | Purpose |
 |---|---|
@@ -69,9 +84,17 @@ ZYNEX currently uses a TypeScript web stack centered on React, Vite, Express, tR
 | [Roadmap](ROADMAP.md) | Direction and planned stages |
 | [Getting started](docs/getting-started.md) | Safe contributor orientation |
 
-## Community
+## Getting started
+
+This is a **documentation-only showcase**, not a runnable software distribution. To explore the live product, visit [zynexai.co](https://zynexai.co/). To contribute public-safe documentation, begin with [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Community and support
 
 If this showcase is useful, consider starring the repository, following project updates through the official website, exploring ZYNEX, and sharing feedback through the product’s published channels. No social-media or community links are included unless they have been officially published.
+
+## Contribute
+
+Documentation, public-safe diagrams, and approved visual placeholders are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md), [SECURITY.md](SECURITY.md), and [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) before participating.
 
 ## Repository safety
 
@@ -80,3 +103,7 @@ Please read [SECURITY.md](SECURITY.md) before reporting a vulnerability and [CON
 ## License
 
 This repository is a public documentation showcase. It is **not** an open-source release of the ZYNEX production application. See [LICENSE](LICENSE).
+
+---
+
+**Visit [zynexai.co](https://zynexai.co/) to explore ZYNEX. If the showcase is useful, please star the repository and follow its updates.**
