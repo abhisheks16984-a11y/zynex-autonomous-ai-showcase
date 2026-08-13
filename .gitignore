@@ -1,0 +1,28 @@
+# Secrets and environment configuration
+.env
+.env.*
+!.env.example
+
+# Local credentials and certificates
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+
+# Dependency and build folders
+node_modules/
+dist/
+build/
+coverage/
+
+# IDE, OS, and logs
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
+
+# Screenshots and exports must be reviewed before adding
+assets/screenshots/*
+!assets/screenshots/.gitkeep

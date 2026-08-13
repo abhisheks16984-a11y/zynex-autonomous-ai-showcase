@@ -1,0 +1,19 @@
+# Features and Status
+
+## Current web capabilities
+
+| Capability | Status |
+|---|---|
+| AI chat and conversation history | Current |
+| Programming and code assistance | Current |
+| Document and file analysis | Current |
+| Website analysis | Current |
+| Research, mathematics, science, and education assistance | Current |
+| Content and resume assistance | Current |
+| Secure authentication and user profiles | Current |
+| Subscription presentation | Current |
+| Image creation on the web | Not offered; planned for the mobile app |
+
+## Planned or research-stage themes
+
+Autonomous engineering, self-audit, mission/action workflows, AI shopping intelligence, advanced task execution, multi-agent systems, multi-node research, advanced long-term memory, and additional automation capabilities are planned or research-stage themes. They are not presented as current production features.
