@@ -12,6 +12,8 @@
 | Content and resume assistance | Current |
 | Secure authentication and user profiles | Current |
 | Subscription presentation | Current |
+| Private PDF report export and Report Library | Current; subject to account access, plan limits, supported inputs, and service status |
+| PDF templates, saved template preference, and bounded cover customization | Current; applied to user-scoped report exports |
 | Image creation on the web | Not offered; planned for the mobile app |
 
 ## Planned or research-stage themes
